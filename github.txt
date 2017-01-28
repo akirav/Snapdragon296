@@ -1,0 +1,40 @@
+when you want to add files
+
+git add *
+git add filename.c
+
+check where you are 
+
+git branch
+git branch -r 
+
+check stuff about to commit
+
+git status
+
+to push onto repo
+
+git commit -m "message"
+
+to actually push onto repo
+
+git push origin <branch>
+git push origin master
+
+to make new branch on github
+
+git branch <branchname>
+git add *
+git push origin <branchmade>
+
+to move to branches
+
+git checkout <branchname>
+
+to check what branch youre in
+
+git branch
+ 
+to get stuff from repo to local
+
+git pull origin <branch>
